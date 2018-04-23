@@ -3,7 +3,7 @@
 
   "name": "Overwatch Stalker",
   "description": "Context menu option to find players battletag.",
-  "version": "1.1",
+  "version": "0.0.1",
   "icons": {
     "128": "icon128.png",
     "48": "icon48.png",
